@@ -1,0 +1,27 @@
+a {
+	text-decoration: none;
+	color: cadetblue;
+}
+
+.container2 {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top: 30px;
+}
+
+.container3 {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.card {
+	margin: 10px;
+}
+
+.cursor:hover {
+	cursor: pointer;
+}

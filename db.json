@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "body": "1qwer",
+      "author": "1qwera",
+      "image": "1qwer",
+      "id": 1
+    },
+    {
+      "body": "12",
+      "author": "1",
+      "image": "1",
+      "id": 2
+    },
+    {
+      "body": "1234",
+      "author": "ok",
+      "image": "1234",
+      "id": 3
+    },
+    {
+      "body": "asdf",
+      "author": "asdf",
+      "image": "asdf",
+      "id": 4
+    },
+    {
+      "body": "asdf",
+      "author": "asf",
+      "image": "sadf",
+      "id": 5
+    }
+  ]
+}
